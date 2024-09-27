@@ -1,5 +1,11 @@
 # Ajuste de Curvas para Carbono-14
 
+## Autores:
+
+1. Carlos Victor de Souza Gussao
+2. Pedro Henrique Passos Rocha
+3. Catterina Vittorazzi Salvador
+
 Este código foi desenvolvido para ajustar modelos matemáticos (linear, quadrático e exponencial) aos dados de decaimento de carbono-14. Ele utiliza as bibliotecas `numpy`, `math` e `matplotlib` para realizar cálculos e exibir gráficos.
 
 ## Funcionalidades:
